@@ -3,6 +3,6 @@
 Propuesta de Scala Industries Group S.A.S. para la Vicepresidencia de Crecimiento y Sostenibilidad Global de la Cámara de Comercio de Bucaramanga.
 
 - `index.html`: presentación del autodiagnóstico (publicada con GitHub Pages).
-- `Autodiagnostico de Entrada CCB VP Crecimiento.xlsx`: libro para diligenciar.
+- `Autodiagnostico de Entrada CCB VP Crecimiento BORRADOR.xlsx`: libro para diligenciar. **Borrador** para validación con la Cámara; preguntas, requisitos de programas y umbrales sujetos a ajuste.
 
 Powered by Scala.
